@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "day3Task",
+    "slug": "day3Task",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "day3Task"
+}
